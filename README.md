@@ -4,7 +4,7 @@
 
 ### Prerequisites
 - [StarUML](https://staruml.io/) (for viewing UML diagrams)
-- [Swagger]([https://app.swaggerhub.com/]) (for API)
+- [Swagger](https://app.swaggerhub.com/) (for API)
 
   
 ### Part1: 
