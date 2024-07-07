@@ -1,6 +1,6 @@
-#SoftEng1_ece_auth_2024
+# SoftEng1_ece_auth_2024
 
-##Software Engineering Course Project AUTH 2024
+## Software Engineering Course Project AUTH 2024
 
 ### Prerequisites
 - [StarUML](https://staruml.io/) (for viewing UML diagrams)
