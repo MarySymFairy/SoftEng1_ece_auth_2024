@@ -1,6 +1,8 @@
-# SoftEng1_ece_auth_2024
+<img height="300" width="300" alt="Reservio Logo" src="https://github.com/user-attachments/assets/b5974171-210d-468a-8814-d618e321fa99" />
 
-## Software Engineering Course Project AUTH 2024
+# Software-Engineering-I-Project in ECE AUTH
+
+## 8th Semester, Aristotle University of Thessaloniki, 2024
 
 ### Prerequisites
 - [StarUML](https://staruml.io/) (for viewing UML diagrams)
